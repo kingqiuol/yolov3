@@ -16,7 +16,7 @@ CSDN地址：[【深度学习系列（四）】：基于tensorflow的YOLOV3实�
 
 下载完成后，将yolov3.weights放在下载好的github文件夹下，将weights.h5放在model文件夹下。
 
-![image1](./image/20191029153314693.jpg)
+![image1](./image/2019102914121018.jpg)
 
 ### 3、模型运行
 
